@@ -1,0 +1,10 @@
+{
+  "app": "Tagfolio",
+  "theme": "tagfolio",
+  "baseAppId": "6a07ce97bc175abcdd565192",
+  "builderWallet": "0x319CB3C4e40ECc624d112206cEf4406c0449A6fF",
+  "builderCode": "bc_67i0jjer",
+  "network": "Base",
+  "liveDemo": "https://tagfolio.vercel.app",
+  "repository": "https://github.com/polteny/tagfolio-base-dapp"
+}
